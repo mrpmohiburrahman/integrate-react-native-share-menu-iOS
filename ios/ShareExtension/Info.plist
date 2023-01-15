@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>HostAppBundleIdentifier</key>
-	<string>org.reactjs.native.example.AwesomeProject</string>
+	<string>org.reactjs.native.example.integrateReactNativeShareMenuIos</string>
 	<key>HostAppURLScheme</key>
 	<string>mycustomscheme://</string>
 	<!-- This url scheme CONTAINS :// at the end - E.G. "mycustomscheme://"-->
